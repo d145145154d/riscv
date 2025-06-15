@@ -1,0 +1,10 @@
+D:\Software\Design\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Software/Design/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\honghua\OneDrive\GraduateStudies\Y1S1\项目\riscv\riscv_c\riscv -B C:\Users\honghua\OneDrive\GraduateStudies\Y1S1\项目\riscv\riscv_c\riscv\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Software/Design/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/honghua/OneDrive/GraduateStudies/Y1S1/项目/riscv/riscv_c/riscv/cmake-build-debug

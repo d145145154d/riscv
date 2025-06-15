@@ -1,0 +1,3 @@
+C:/Users/honghua/OneDrive/GraduateStudies/Y1S1/项目/riscv/riscv_c/riscv/cmake-build-debug/CMakeFiles/riscv.dir
+C:/Users/honghua/OneDrive/GraduateStudies/Y1S1/项目/riscv/riscv_c/riscv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/honghua/OneDrive/GraduateStudies/Y1S1/项目/riscv/riscv_c/riscv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
