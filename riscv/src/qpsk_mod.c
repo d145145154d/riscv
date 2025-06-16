@@ -1,6 +1,7 @@
 #include "../include/qpsk_mod.h"
 #include <math.h>
 #include <stdlib.h>
+#include <stdint.h>
 
 void bi2de_pairs(const uint8_t *bits, int num_bits, uint8_t *out_symbols) {
     int num_symbols = num_bits / 2;
