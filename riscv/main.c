@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include "src/rate_matching.c"
-#include  "src/qpsk_mod.c"
-#include "src/scrambler.c"
+#include "include/rate_matching.h"
+#include "include/qpsk_mod.h"
+#include "include/scrambler.h"
 
 #define LENGTH 4368
 

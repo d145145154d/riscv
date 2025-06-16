@@ -1,6 +1,8 @@
 #ifndef QPSK_MOD_H
 #define QPSK_MOD_H
 
+#include <stdint.h>
+
 
 typedef struct {
     float real;
